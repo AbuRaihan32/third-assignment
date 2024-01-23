@@ -1,0 +1,22 @@
+.font-manrope {
+    font-family: "Manrope", sans-serif;
+}
+
+.bg-custom {
+    background: linear-gradient(#00000000, #0000008f), linear-gradient(to top, #00000000, #00000094), url('Images/2.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-custom-2{
+    background: linear-gradient(#00000000, #0000008f), linear-gradient(to top, #00000000, #00000094), url('Images/3.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-custom-3{
+    background: linear-gradient(#00000000, #0000008f), linear-gradient(to top, #00000000, #00000094), url('Images/4.png');
+    background-repeat: no-repeat;
+    background-size:100%;
+    background-position: center;
+    background-size: cover;
+
+}
